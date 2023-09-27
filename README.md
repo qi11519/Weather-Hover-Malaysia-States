@@ -1,4 +1,4 @@
-A simple interactive Malaysia Weather Forcast Website built with Javascript, HTML, and CSS.
+WeatherHover: Malaysia States, a simple interactive Malaysia Weather Forcast Website built with Javascript(JQuery) , HTML, and CSS.
 Implemented Meteorology Malaysia (MET) API to obtain the latest available daily forecast directly from the MET database.
 
 - Allows the view of the current weather of a state by hovering over the area of the state.
